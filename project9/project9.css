@@ -1,0 +1,84 @@
+.bgimg{
+    background-image: url(images/project99.jpeg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 730px;
+}
+.web-title {
+    margin-top: 200px;
+}
+.web-title h2{
+    color: white;
+    font-size: 40px;
+}
+.web-title h1{
+    color: white;
+    font-size: 80px;
+    font-weight: bold;
+}
+        /* ////////////////// SERVICE  ////////////////// */
+.our-service{
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+.service-child{
+    padding-top: 50px;
+}
+.our-service h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.service-icon{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding-top: 23px;
+}
+.our-service h2{
+    padding-top: 20px;
+}
+
+         /* ////////////////// CENTER-PORTFOLIO  ////////////////// */
+
+.center-portfolio h5{
+    font-size: 22px;   
+
+}  
+.portfolio-child{
+    padding-top: 100px;
+    padding-bottom: 200px;
+}  
+.portfolio-child h1{
+    font-size: 50px;
+    font-weight: bold;
+}    
+.row-child{
+    padding-top: 70px;
+
+}
+.cursor{
+    cursor: pointer;
+}
+
+          /* ////////////////// CENTER-PORTFOLIO  ////////////////// */
+.our-team h1{
+    font-size: 50px;
+    font-weight: bold;
+}          
+.our-team-child{
+    padding-top: 100px;
+    padding-bottom: 200px;
+}  
+.row-our-team-child{
+    padding-top: 70px;
+}
+
+           /* ////////////////// CENTER-PORTFOLIO  ////////////////// */
+
+.footer{
+    height: 70px;
+}   
+.footer h5{
+    line-height: 50px;
+}
